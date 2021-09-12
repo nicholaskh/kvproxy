@@ -1,0 +1,7 @@
+*.swp
+*.swo
+
+logs
+go.sum
+bin/codis-*
+bin/redis-*
